@@ -46,6 +46,7 @@ en:
 
     xkcd: 'Gets an XKCD comic by ID or name'
 
+    neko: 'Gets a image of a neko (catgirl)'
   admin:
     eval:
       nope: 'nope'
